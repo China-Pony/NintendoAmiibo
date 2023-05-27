@@ -1,4 +1,4 @@
-# FlipperAmiibo
+# 任天堂Amiibo合集
 A collection of FlipperZero NFC files that emulate Amiibo
 
 ## Installation
